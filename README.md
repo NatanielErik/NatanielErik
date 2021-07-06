@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nataniel
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C++, spanish, driving and computer science
+- 🌱 I’m currently learning C++
 
 <!---
 NatanielErik/NatanielErik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
